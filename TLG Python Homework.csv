@@ -1,0 +1,36 @@
+TicketID;Date;Subject;OrderId;Language;Country;Status
+2429727;2023-05-17T12:44Z;Online::Aftersales::Return::Return Status;PJ-EU-00053842;French;France;Solved
+2440330;2023-05-10T13:26Z;Online::Presales::Quotation::Quotation;HE-US-00043093;English;United States;Solved
+2429727;2023-02-12T10:00Z;Online::Aftersales::Return::Return Status;PJ-EU-00045684;German;Germany;StandBy
+2441932;2022-11-02T09:14Z;Online::Presales::Product Inquiry;AT-EU-00037894;Spanish;Spain;Open
+2452401;2023-03-05T16:33Z;Online::Aftersales::Refund::Refund Request;FR-EU-00074295;French;France;WIP
+5865142;2023-03-20T14:52Z;Online::Aftersales::Refund::Refund Request;FR-EU-00074295;French;France;Solved
+2460389;2023-04-18T08:01Z;Online::Presales::Product Inquiry;JP-AP-00085360;Japanese;Japan;Open
+2480817;2022-12-03T13:07Z;Online::Presales::Product Inquiry;DE-EU-00091832;German;Germany;Open
+1861482;2023-04-25T10:59Z;Online::Presales::Product Inquiry;JP-AP-00085360;Japanese;Japan;WIP
+2471023;2023-02-22T15:19Z;Online::Aftersales::Return::Return Status;IT-EU-00060487;Italian;Italy;Solved
+8762541;2023-03-10T11:45Z;Online::Aftersales::Return::Return Status;IT-EU-00060487;Italian;Italy;Solved
+2480817;2023-05-15T16:55Z;Online::Presales::Product Inquiry;DE-EU-00091832;German;Germany;Open
+2486334;2023-01-16T09:32Z;Online::Aftersales::Refund::Refund Request;ES-EU-00028569;Spanish;Spain;Solved
+8416485;2023-01-25T11:28Z;Online::Aftersales::Refund::Refund Request;ES-EU-00028569;Spanish;Spain;StandBy
+2495397;2023-03-06T14:39Z;Online::Presales::Quotation::Quotation;RU-EU-00016259;Russian;Russia;WIP
+2501045;2022-12-27T11:08Z;Online::Presales::Product Inquiry;FR-EU-00049632;French;France;Open
+8514685;2023-03-19T16:22Z;Online::Presales::Quotation::Quotation;RU-EU-00016259;Russian;Russia;Solved
+2429728;2023-03-15T08:12Z;Online::Presales::Product Inquiry::Availability;PJ-EU-00042579;Italian;Italy;Pending
+2430245;2023-04-01T16:34Z;Online::Aftersales::Refund::Refund Request;PJ-US-00037291;English;United States;WIP
+2441507;2023-05-05T09:21Z;Online::Presales::Product Inquiry::Specifications;PJ-AS-00058943;Japanese;Japan;StandBy
+2442133;2023-03-29T14:55Z;Online::Presales::Ordering::Order Tracking;PJ-EU-00052678;Spanish;Spain;StandBy
+2450783;2022-11-17T11:08Z;Online::Presales::Quotation::Pricing;PJ-EU-00048592;French;France;Solved
+2453096;2023-05-02T18:29Z;Online::Aftersales::Return::Return Status;PJ-US-00040027;English;United States;Solved
+2444167;2023-03-12T21:47Z;Online::Presales::Product Inquiry::Availability;PJ-AS-00041603;Korean;South Korea;WIP
+2450783;2023-05-19T13:56Z;Online::Presales::Quotation::Quotation;HE-US-00053946;English;United States;Solved
+2451714;2023-04-28T10:05Z;Online::Aftersales::Return::Return Status;PJ-AS-00047190;Chinese;China;Solved
+2460595;2023-03-07T08:34Z;Online::Presales::Ordering::Payment;PJ-EU-00040474;German;Germany;WIP
+2455906;2023-05-07T14:18Z;Online::Presales::Product Inquiry::Specifications;PJ-US-00054736;English;United States;Solved
+2460595;2023-04-23T17:53Z;Online::Presales::Ordering::Order Tracking;PJ-EU-00046016;Spanish;Spain;Solved
+2456337;2023-03-18T09:45Z;Online::Aftersales::Refund::Refund Request;PJ-US-00037245;English;United States;WIP
+2472090;2022-10-13T12:09Z;Online::Presales::Product Inquiry::Availability;PJ-EU-00040580;French;France;Solved
+2473711;2023-04-25T11:52Z;Online::Aftersales::Return::Return Status;PJ-AS-00053162;Japanese;Japan;StandBy
+2460899;2023-05-09T16:04Z;Online::Presales::Quotation::Pricing;PJ-EU-00044818;German;Germany;StandBy
+2474779;2023-04-09T19:28Z;Online::Presales::Ordering::Order Tracking;PJ-US-00050546;English;United States;Solved
+2463122;2023-03-05T22:37Z;Online::Presales::Product Inquiry::Specifications;PJ-AS-00048047;Korean;South Korea;Solved
