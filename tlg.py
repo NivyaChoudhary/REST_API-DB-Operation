@@ -16,15 +16,17 @@ import xml.etree.ElementTree as ET
 from dicttoxml import dicttoxml
 from math import ceil
 from flasgger import Swagger
+import os
 
 
 app = Flask(__name__)
 
 # Database connection configuration
 DB_HOST = 'localhost'
-DB_NAME = 'postgres'
+DB_NAME = os.environ.get('DB_NAME')
 DB_USER = 'postgres'
-DB_PASSWORD = 'Nchoudhary007'
+DB_PASSWORD = os.environ.get('DB_PASSWORD')
+
 
 # Define the SQLAlchemy engine
 engine = create_engine(
